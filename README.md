@@ -21,6 +21,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the **required** user stories that have been implemented:
 
-( link incoming ) 
+(https://imgur.com/a/mlHVDKr)
