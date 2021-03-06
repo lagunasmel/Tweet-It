@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of the **required** user stories that have been implemented:
 
-(https://imgur.com/a/mlHVDKr)
+(https://imgur.com/a/cPwOUgr)
