@@ -1,6 +1,6 @@
-# Twitter - Part II
+# Tweet It - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic Twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: 2.5 hours spent in total
 
@@ -21,9 +21,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
-# Project 3 - Twitter Client
+# Tweet It
 
-**Twitter Client** is a basic twitter app to read your tweets.
+**Tweet It* is a basic Twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
@@ -36,11 +36,6 @@ The following **required** functionality is completed:
 - [X] User can log out. (1pt)
 - [X] User stays logged in across restarts. (1pt)
 - [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
-
-The following **bonus** features are implemented:
-
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
