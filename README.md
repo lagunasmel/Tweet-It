@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 
 # Tweet It
 
-**Tweet It* is a basic Twitter app to read your tweets.
+**Tweet It** is a basic Twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
